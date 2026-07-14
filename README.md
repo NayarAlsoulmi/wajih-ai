@@ -4,7 +4,7 @@
 
 **Smart financial & regulatory guidance, powered by AI.**
 
-Wajih AI (وجيه — Arabic for "guide/facilitator") is a concept prototype for an
+Wajih AI (وجيه ) is a concept prototype for an
 AI assistant that helps individuals and businesses in Saudi Arabia navigate
 financial and regulatory processes: complaints, fraud reports, fintech
 licensing, AML/KYC compliance, and document readiness — all in one
