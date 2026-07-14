@@ -37,11 +37,3 @@ Core features:
 - **Alerts** — a notification feed that surfaces case updates and audit
   results as they happen.
 - **Light/dark theme**, RTL Arabic interface.
-
-
-1. Install dependencies:
-   `npm install`
-2. (Optional) Set `GEMINI_API_KEY` in `.env.local` to enable real Gemini
-   responses instead of the mock simulation. See `.env.example`.
-3. Run the app:
-   `npm run dev`
