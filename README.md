@@ -38,18 +38,6 @@ Core features:
   results as they happen.
 - **Light/dark theme**, RTL Arabic interface.
 
-## How it's built
-
-- React 19 + Vite frontend (`src/`)
-- Express server (`server.ts`) serving the app and a `/api/wajih-ai/chat`
-  endpoint
-- Optional Gemini API integration (`@google/genai`) for live AI responses —
-  without an API key the app runs in a **mock simulation mode** using
-  canned FAQ responses, so it's fully runnable out of the box.
-
-## Run Locally
-
-**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
