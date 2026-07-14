@@ -1,0 +1,39 @@
+
+
+# وجيه AI — Wajih AI
+
+**Smart financial & regulatory guidance, powered by AI.**
+
+Wajih AI (وجيه ) is a concept prototype for an
+AI assistant that helps individuals and businesses in Saudi Arabia navigate
+financial and regulatory processes: complaints, fraud reports, fintech
+licensing, AML/KYC compliance, and document readiness — all in one
+conversational interface.
+
+> This is an unofficial concept/demo built with Google AI Studio and styled
+> after SAMA's (Saudi Central Bank) visual identity to explore what an
+> AI-native regulatory guidance experience could look like. It is not an
+> official SAMA product.
+
+## What it does
+
+The app splits into two guided paths:
+
+- **Individuals** — file complaints, report suspicious transactions/scams,
+  ask financial questions, and track a personal "financial health" view.
+- **Businesses** — apply for fintech/payment licenses, draft AML/KYC
+  policies, and manage regulatory case readiness.
+
+Core features:
+
+- **Wajih AI chat assistant** — answers common financial/regulatory
+  questions and can automatically open a tracked case (e.g. a complaint or
+  license request) based on what you ask.
+- **Case management** — each case tracks required documents, a completion
+  ("readiness") score, and status as documents are submitted.
+- **Document analysis** — upload a file (e.g. a bank statement or an AML
+  policy draft) and get a simulated AI audit: a summary, issues found, and
+  recommendations.
+- **Alerts** — a notification feed that surfaces case updates and audit
+  results as they happen.
+- **Light/dark theme**, RTL Arabic interface.
